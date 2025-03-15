@@ -4,8 +4,12 @@ It includes data preprocessing, feature engineering, and model training to predi
 
 Included:
 
-Data Cleaning & Preprocessing
-Feature Engineering & Selection
-Random Forest Model Implementation
-Model Evaluation & Performance Metrics
-Easy-to-Use Jupyter Notebook
+- Data Cleaning & Preprocessing
+  
+- Feature Engineering & Selection
+  
+- Random Forest Model Implementation
+  
+- Model Evaluation & Performance Metrics
+  
+- Easy-to-Use Jupyter Notebook
