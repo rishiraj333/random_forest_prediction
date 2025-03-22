@@ -13,3 +13,8 @@ Included:
 - Model Evaluation & Performance Metrics
   
 - Easy-to-Use Jupyter Notebook
+
+**Random Forest** is a machine learning model that makes predictions by combining the opinions of many decision trees.
+More Reliable – Instead of relying on a single model (which might be biased or wrong), it combines multiple models to improve accuracy.
+Handles Complex Data – Works well even if the data has missing values or many influencing factors.
+Prevents Overfitting – Unlike a single decision tree that may be too specific, Random Forest balances accuracy and generalisation.
